@@ -7,4 +7,5 @@ module.exports = {
   recent: require('./lib/recent'),
   upload: require('./lib/upload'),
   resources: require('./lib/resources'),
+  publish: require('./lib/publish')
 };
